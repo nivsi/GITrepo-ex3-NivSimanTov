@@ -3,7 +3,7 @@ public class NivSimanTov{
 	{
 		for(int i = 0; i <=10; i++)
 		{
-			System.out.println("Niv Siman Tov hate hapoel");
+			System.out.println("Niv Siman Tov like react");
 		}			
 	}
 }
